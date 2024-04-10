@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Server",
+      "request": "launch",
+      "mainClass": "Server",
+      "projectName": "15440_f2acccd5"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ruiqiwang/Desktop/15440/15440-p1/cp2",
+      "program": "/Users/ruiqiwang/Desktop/15440/15440-p1/cp2/build/Debug/outDebug"
+    }
+  ]
+}
